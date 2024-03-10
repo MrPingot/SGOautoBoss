@@ -8,3 +8,5 @@
 4. 貼上你的token
 5. 設定運行時間(推薦每10分鐘一次)
 6. 享受
+![image](https://github.com/MrPingot/SGOautoBoss/assets/97339781/23de8761-8964-4514-b8dd-24681ed2cf79)
+
