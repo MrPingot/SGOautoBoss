@@ -1,6 +1,6 @@
 # Sword gale online 自動打王
 
-#程式好像被茅場擋了 不確定能否使用
+# 2024/5/4更 程式好像被茅場擋了 不確定能否使用
 
 ## 使用教學
 1. 打開[Google script](https://script.google.com/home)
